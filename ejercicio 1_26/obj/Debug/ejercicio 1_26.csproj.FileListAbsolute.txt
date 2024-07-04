@@ -1,0 +1,7 @@
+C:\Users\Kca56\OneDrive\PROGRAMACIÓN l\ejercicio 1_26\ejercicio 1_26\bin\Debug\ejercicio 1_26.exe.config
+C:\Users\Kca56\OneDrive\PROGRAMACIÓN l\ejercicio 1_26\ejercicio 1_26\bin\Debug\ejercicio 1_26.exe
+C:\Users\Kca56\OneDrive\PROGRAMACIÓN l\ejercicio 1_26\ejercicio 1_26\bin\Debug\ejercicio 1_26.pdb
+C:\Users\Kca56\OneDrive\PROGRAMACIÓN l\ejercicio 1_26\ejercicio 1_26\obj\Debug\ejercicio 1_26.csproj.AssemblyReference.cache
+C:\Users\Kca56\OneDrive\PROGRAMACIÓN l\ejercicio 1_26\ejercicio 1_26\obj\Debug\ejercicio 1_26.csproj.CoreCompileInputs.cache
+C:\Users\Kca56\OneDrive\PROGRAMACIÓN l\ejercicio 1_26\ejercicio 1_26\obj\Debug\ejercicio 1_26.exe
+C:\Users\Kca56\OneDrive\PROGRAMACIÓN l\ejercicio 1_26\ejercicio 1_26\obj\Debug\ejercicio 1_26.pdb
